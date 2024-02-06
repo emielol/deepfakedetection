@@ -6,8 +6,8 @@ Are you tired of seeing fake videos fooling everyone online? 😅  This reposito
 ## What's the magic behind it? ✨
 I've built a convolutional neural network (CNN, that's a fancy way of saying it's really good at analyzing images) with two special networks that focus on the tiny details of videos. These details are like fingerprints for videos, and my model can identify them to determine whether the data is real or AI-generated. 
 
-##How good is it? 🤔
-In my humble opinion (but also according to some rigorous tests), my model can spot deepfakes with over 90% accuracy. The closer the confidence score is closer to .5, the more unsure it is.
+##How good is it? 🤔##
+My model can spot deepfakes with over 90% accuracy. The closer the confidence score is closer to .5, the more unsure it is.
 
 
 
