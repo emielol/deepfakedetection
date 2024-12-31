@@ -9,6 +9,8 @@ I've built a convolutional neural network (CNN, that's a fancy way of saying it'
 ## How good is it? 🤔
 My model can spot deepfakes with over 90% accuracy. The closer the confidence score is closer to .5, the more unsure it is.
 
+## Check out the article 
+I wrote an article about the application of AI in deepfake detection based on my project. (https://medium.com/@noeflo8006/the-cure-for-the-future-with-a-dose-of-caution-c2e62913bf39)
 
 
 
